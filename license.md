@@ -1,0 +1,1 @@
+All Rights Reserved (C) 2026, Tomasz Stępień (Toma400)

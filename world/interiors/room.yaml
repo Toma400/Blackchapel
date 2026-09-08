@@ -1,0 +1,11 @@
+# size (unifies all layers? / checks against?)
+# size = [10, 3]
+name: 'Room'
+bg: # layer [bg, obj, it, spec]
+  translation: # translation to textures/properties
+    '_': '' # air (transparent/no draw)
+    'F': 'tFloor'
+  map: |
+    __________
+    ____FF____
+    __________

@@ -1,0 +1,7 @@
+# '...': # object
+#   'tex': ''    # texture (prob should be dict depending on states?)
+#   'col': false # collision
+# === TILES ===
+'tFloor':
+  'tex': 'tiles/floor.png'
+  'col': false
