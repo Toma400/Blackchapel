@@ -8,7 +8,7 @@ import (
 	"github.com/hajimehoshi/ebiten/v2/ebitenutil"
 	"log"
 
-	"bt/core"
+	"bc/core"
 )
 
 type Game struct{}

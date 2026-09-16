@@ -82,7 +82,7 @@ func DrawInteriorMap(im InteriorMap, screen *ebiten.Image) {
 	for _, line := range im.Tiles {
 		for _, tile := range line {
 			if tile.bgt.tex != "" { // skip if transparent/no texture
-				screen.DrawImage()
+				// screen.DrawImage()
 				// https://github.com/Toma400/Ilmalaiva/blob/sky/core/table.go#L132
 				// https://github.com/Toma400/Ilmalaiva/blob/sky/core/cae.go#L37
 			}
